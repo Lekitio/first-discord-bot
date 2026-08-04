@@ -1,0 +1,2 @@
+#In here I put information about what files/folders that git should ignore
+.env

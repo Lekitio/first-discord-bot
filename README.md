@@ -10,5 +10,7 @@ What happened to my readme file...? Future me I think the -f push deleted it oop
 Hello?
 Hi
 
-Two space diff
-one space diff lets check
+Two space diff,
+one space diff lets check.
+
+This is actually pretty cool. Rather than havign to use \n /n uhh I can just use two spaces
